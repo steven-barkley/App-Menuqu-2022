@@ -1,6 +1,8 @@
-# Menuqu
-Menuqu a hospitality interface
+Menuqu - 3D food presentation, e-commerce and Customer Data Persistence.
 
+	•	Mobile (Swift, ARkit, Unity and ??) / Website 
+	•	Open Personal Interactive Networked Device ( Personal Menus)
+  
 What is Menuqu?
 
 Menuqu is an interface that presents hospitality and service data to customers in an engaging way. 
