@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
 }
 
 html, body{
@@ -39,7 +40,7 @@ body{
     margin-top: 15px;
     text-align: center;
     color: white;
-    font-size: 14pt;
+    font-size: 18pt;
     font-family: Cinzel;
 }
 
@@ -62,6 +63,7 @@ body{
     background-color: rgba(255,255,255,1);
     color:#222;
     cursor: pointer;
+    font-size: 18pt;
 
     transition: background-color 1000ms, color 1000ms;
 }
@@ -85,7 +87,7 @@ body{
     background-color: rgba(255,255,255,1);
     color:#222;
     cursor: pointer;
-
+    font-size: 18pt;
     transition: background-color 1000ms, color 1000ms;
 }
 
@@ -96,3 +98,11 @@ body{
     float:left; 
     margin: 50px;  
 }
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
