@@ -10,3 +10,9 @@
 
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Problem_Statement_Menuqu.jpg)
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/User_Persona_Menuqu.jpg)
+
+#Case Study 
+## [Menuqu Case Study](https://docs.google.com/presentation/d/19jKW-446Ui4DQ3Vojbv2i300fHwIukrkpF14Rw9bAAs/edit?usp=sharing)
+
+#Figma 
+## [Design link](https://www.figma.com/proto/8CeLZALMAmzfl5Tb57lcID/Home-Panel?page-id=29%3A2&node-id=31%3A96&viewport=332%2C48%2C0.5&scaling=scale-down&starting-point-node-id=31%3A94)
