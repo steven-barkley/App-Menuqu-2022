@@ -25,4 +25,4 @@ https://drive.google.com/file/d/1YlCuEMRD77L-bh9144mVYBwYY3St33R4/view?usp=shari
 https://youtu.be/bvxNV57oka4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bvxNV57oka4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Watch the video](https://cdn3.iconfinder.com/data/icons/people-doing-things-1/90/Presentaton_Idea_-_outline-512.png)](https://youtu.be/bvxNV57oka4?t=257)
+[![Watch the video](https://cdn3.iconfinder.com/data/icons/people-doing-things-1/90/Presentaton_Idea_-_outline-512.png)(https://youtu.be/bvxNV57oka4?t=257)
