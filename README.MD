@@ -20,7 +20,7 @@
 
 # Pitch Presentation!
 
-![Watch preview](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Menuqu_preview_image.PNG)(https://youtu.be/bvxNV57oka4?t=257)
+[!Watch preview](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Menuqu_preview_image.PNG)(https://youtu.be/bvxNV57oka4?t=257)
 
 ![Tips-to-make-a-great-presentation_1200x627](https://youtu.be/bvxNV57oka4?t=257)(https://youtu.be/bvxNV57oka4?t=257)
 
