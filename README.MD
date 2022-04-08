@@ -18,7 +18,10 @@
 ## [Menuqu UX Design](https://www.figma.com/proto/8CeLZALMAmzfl5Tb57lcID/Home-Panel?page-id=29%3A2&node-id=31%3A96&viewport=332%2C48%2C0.5&scaling=scale-down&starting-point-node-id=31%3A94)
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Portfolio%20Project%20Menuqu%20-%20Mock%20ups.jpg)
 
-# Pitch Presentation
+# Pitch Presentation!
+
+[Tips-to-make-a-great-presentation_1200x627](https://user-images.githubusercontent.com/14866921/162415954-dd9e3d89-3b52-4fb5-91da-02b158822c2e.jpg)(https://youtu.be/bvxNV57oka4?t=257)
+
 
 https://drive.google.com/file/d/1YlCuEMRD77L-bh9144mVYBwYY3St33R4/view?usp=sharing
 
