@@ -21,13 +21,3 @@
 # Pitch Presentation!
 
 [![Watch preview](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Menuqu_preview_image.PNG)](https://youtu.be/bvxNV57oka4?t=257)
-
-![Tips-to-make-a-great-presentation_1200x627](https://youtu.be/bvxNV57oka4?t=257)(https://youtu.be/bvxNV57oka4?t=257)
-
-
-https://drive.google.com/file/d/1YlCuEMRD77L-bh9144mVYBwYY3St33R4/view?usp=sharing
-
-https://youtu.be/bvxNV57oka4
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bvxNV57oka4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Watch the video](https://cdn3.iconfinder.com/data/icons/people-doing-things-1/90/Presentaton_Idea_-_outline-512.png)(https://youtu.be/bvxNV57oka4?t=257)
