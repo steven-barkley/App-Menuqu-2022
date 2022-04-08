@@ -20,7 +20,9 @@
 
 # Pitch Presentation!
 
-[Tips-to-make-a-great-presentation_1200x627](https://user-images.githubusercontent.com/14866921/162415954-dd9e3d89-3b52-4fb5-91da-02b158822c2e.jpg)(https://youtu.be/bvxNV57oka4?t=257)
+![Tips-to-make-a-great-presentation_1200x627](https://user-images.githubusercontent.com/14866921/162415954-dd9e3d89-3b52-4fb5-91da-02b158822c2e.jpg)(https://youtu.be/bvxNV57oka4?t=257)
+
+![Tips-to-make-a-great-presentation_1200x627](https://youtu.be/bvxNV57oka4?t=257)(https://youtu.be/bvxNV57oka4?t=257)
 
 
 https://drive.google.com/file/d/1YlCuEMRD77L-bh9144mVYBwYY3St33R4/view?usp=sharing
