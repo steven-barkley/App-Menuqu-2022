@@ -6,9 +6,9 @@
 
 ## [Menuqu business scenario](https://docs.google.com/document/d/13jNWOHsXKtuwfdZQyX_y4RXMnfrsfj6BTEyxEFbluJM/edit?usp=sharing)
 
-### Persona:  
-
+### Problem statement:
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Problem_Statement_Menuqu.jpg)
+### Persona:  
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/User_Persona_Menuqu.jpg)
 
 ## Website
