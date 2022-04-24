@@ -11,14 +11,17 @@
 ### Persona:  
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/User_Persona_Menuqu.jpg)
 
-## Website
+## Website:
 [![Menuqu Website](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Menuqu_Website_wip.PNG)](Netlify)
 
-# Case Study 
+# Case Study:
+
 ## [Menuqu UX Research](https://docs.google.com/presentation/d/19jKW-446Ui4DQ3Vojbv2i300fHwIukrkpF14Rw9bAAs/edit?usp=sharing)
 
-# Figma 
+# Figma:
+
 ## [Menuqu UX Design](https://www.figma.com/proto/8CeLZALMAmzfl5Tb57lcID/Home-Panel?page-id=29%3A2&node-id=31%3A96&viewport=332%2C48%2C0.5&scaling=scale-down&starting-point-node-id=31%3A94)
+
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Portfolio%20Project%20Menuqu%20-%20Mock%20ups.jpg)
 
 # Pitch Presentation!
