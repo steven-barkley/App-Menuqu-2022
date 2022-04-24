@@ -9,7 +9,7 @@
 ### Persona:  
 
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Problem_Statement_Menuqu.jpg)
-![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/User_Persona_Menuqu.jpg)
+![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/User_Persona_Menuqu.jpg)
 
 # Case Study 
 ## [Menuqu UX Research](https://docs.google.com/presentation/d/19jKW-446Ui4DQ3Vojbv2i300fHwIukrkpF14Rw9bAAs/edit?usp=sharing)
