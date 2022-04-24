@@ -8,7 +8,7 @@
 
 ### Persona:  
 
-![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/images/Problem_Statement_Menuqu.jpg)
+![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Problem_Statement_Menuqu.jpg)
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/User_Persona_Menuqu.jpg)
 
 # Case Study 
