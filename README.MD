@@ -21,7 +21,7 @@
 # Figma:
 
 ## [Menuqu UX Design](https://www.figma.com/proto/8CeLZALMAmzfl5Tb57lcID/Home-Panel?page-id=29%3A2&node-id=31%3A96&viewport=332%2C48%2C0.5&scaling=scale-down&starting-point-node-id=31%3A94)
-
+## Design Summary
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Portfolio%20Project%20Menuqu%20-%20Mock%20ups.jpg)
 
 # Pitch Presentation!
