@@ -12,7 +12,7 @@
 ![screenshot](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/User_Persona_Menuqu.jpg)
 
 ## Website:
-[![Menuqu Website](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Menuqu_Website_wip.PNG)](https://github.com/steven-barkley/Website-Tutorial-2022/blob/master/public/index.html)
+[![Menuqu Website](https://github.com/steven-barkley/App-Menuqu-2022/blob/master/Media/Menuqu_Website_wip.PNG)](https://steven-barkley.github.io/App-Menuqu-2022/)
 
 # Case Study:
 
